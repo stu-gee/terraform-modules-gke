@@ -1,5 +1,5 @@
 module "gke" {
-  source  = "tfe.stugendron.2741611427.workshops.arctiq.ca/arctiq/gke/google"
+  source  = "tfe.stugendron.2741611427.workshops.arctiq.ca/stupedia/gke/google"
   version = "1.0.1"
  
   # insert required variables here
